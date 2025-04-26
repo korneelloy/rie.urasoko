@@ -1,58 +1,53 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>http://rie-urasoko.rf.gd/?i=1</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=fr&page=acceuil</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=fr&page=diplomes</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=fr&page=these</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=fr&page=publications</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=fr&page=enseignement</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=en&page=acceuil</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=en&page=diplomes</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=en&page=these</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=en&page=publications</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
-<url>
-<loc>http://rie.urasoko.rf.gd/?langue=en&page=enseignement</loc>
-<lastmod>2024-03-03T14:47:42+00:00</lastmod>
-<priority>0.50</priority>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://rie-urasoko.rf.gd/fr/accueil</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/fr/diplomes</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/fr/these</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/fr/publications</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/fr/enseignement</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/en/accueil</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/en/diplomes</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/en/these</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/en/publications</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>http://rie-urasoko.rf.gd/en/enseignement</loc>
+    <lastmod>2024-03-03T14:47:42+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
 </urlset>

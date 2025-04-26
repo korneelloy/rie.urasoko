@@ -1,0 +1,20 @@
+RewriteEngine On
+RewriteBase /
+
+# Redirige les URL propres vers index.php avec les bons paramètres
+RewriteRule ^fr/accueil$ /index.php?langue=fr&page=accueil [L,QSA]
+RewriteRule ^fr/diplomes$ /index.php?langue=fr&page=diplomes [L,QSA]
+RewriteRule ^fr/these$ /index.php?langue=fr&page=these [L,QSA]
+RewriteRule ^fr/publications$ /index.php?langue=fr&page=publications [L,QSA]
+RewriteRule ^fr/enseignement$ /index.php?langue=fr&page=enseignement [L,QSA]
+
+RewriteRule ^en/accueil$ /index.php?langue=en&page=accueil [L,QSA]
+RewriteRule ^en/diplomes$ /index.php?langue=en&page=diplomes [L,QSA]
+RewriteRule ^en/these$ /index.php?langue=en&page=these [L,QSA]
+RewriteRule ^en/publications$ /index.php?langue=en&page=publications [L,QSA]
+RewriteRule ^en/enseignement$ /index.php?langue=en&page=enseignement [L,QSA]
+
+# Facultatif : rediriger sans / final
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.+)/$ /$1 [R=301,L]

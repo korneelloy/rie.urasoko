@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://rie-urasoko.rf.gd/sitemap.xml
